@@ -25,7 +25,7 @@
 - 🏆 Solved **800+ DSA problems**
   - **LeetCode:** 600+ | Max Rating **1750+**
   - **GeeksforGeeks:** 3★ | Max Rating **1643**
-- 🔭 Building **real-time collaborative applications** and **IoT-based smart systems**
+- 🔭 Building **real-time collaborative applications** 
 - 💡 Interests: **Competitive Programming, Full-Stack Development**
 - 🖥️ **MERN Stack Developer** with experience in scalable, real-time web applications
 
@@ -33,8 +33,8 @@
 
 ## 🛠 Tech Stack
 
-### 💻 Languages
-`C` `C++` `JavaScript` `TypeScript` `SQL` `HTML5` `CSS3`
+### 💻 Language
+`C` `C++` `JavaScript` `TypeScript` `HTML5` `CSS3`
 
 ### ⚙️ Frameworks & Libraries
 `React` `Node.js` `Express.js` `Tailwind CSS` `Socket.io`
@@ -46,14 +46,14 @@
 `Git` `GitHub` `Postman` `VS Code` `MongoDB Compass`
 
 ---
-
 ## 📌 Featured Projects
 
-| Project | Description | Tech Stack | Links |
-|-------|------------|-----------|-------|
-| **Smart IoT Dustbin System (SIH 2025)** | IoT-enabled system for automatic segregation of waste, reducing manual sorting by ~60% and addressing India’s 62M+ tons annual waste challenge. | IoT, React, JavaScript, Flask | [Live](https://futurecan-b83a2.web.app/) |
-| **SyncScript** | Real-time collaborative code editor with live cursor tracking, multi-user syncing, chat, and in-editor code execution. | React, TypeScript, Node.js, Express, Socket.io | [GitHub](https://github.com/PriyanshiGovil/SyncScript) |
-| **AWS Cloud Club Website** | Official AWS Cloud Club website showcasing events, core team, and announcements with smooth animations. | React, Tailwind CSS, Framer Motion | [Live](https://kiet-club-website.vercel.app/) |
+| Project | Description | Tech Stack |
+|--------|------------|------------|
+| [**Smart IoT Dustbin System (SIH 2025)**](https://futurecan-b83a2.web.app/) | IoT-enabled system for automatic segregation of waste, reducing manual sorting by ~60% and addressing India’s 62M+ tons annual waste challenge. | IoT, React, JavaScript, Flask |
+| [**SyncScript**](https://github.com/PriyanshiGovil/SyncScript) | Real-time collaborative code editor with live cursor tracking, multi-user syncing, chat, and in-editor code execution. | React, TypeScript, Node.js, Express, Socket.io |
+| [**AWS Cloud Club Website**](https://kiet-club-website.vercel.app/) | Official AWS Cloud Club website showcasing events, core team, and announcements with smooth animations. | React, Tailwind CSS, Framer Motion |
+
 
 ---
 
