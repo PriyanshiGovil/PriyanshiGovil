@@ -64,9 +64,9 @@
 
 | Project | Description | Tech Stack |
 |--------|------------|------------|
-| [**Smart IoT Dustbin System (SIH 2025)**](https://futurecan-b83a2.web.app/) | IoT-enabled system for automatic segregation of waste, reducing manual sorting by ~60% and addressing India’s 62M+ tons annual waste challenge. | IoT, React, JavaScript, Flask |
+| [**Smart IoT Dustbin System (SIH 2025)**](https://github.com/PriyanshiGovil/FutureCan.git) | IoT-enabled system for automatic segregation of waste, reducing manual sorting by ~60% and addressing India’s 62M+ tons annual waste challenge. | IoT, React, JavaScript, Flask |
 | [**SyncScript**](https://github.com/PriyanshiGovil/SyncScript) | Real-time collaborative code editor with live cursor tracking, multi-user syncing, chat, and in-editor code execution. | React, TypeScript, Node.js, Express, Socket.io |
-| [**AWS Cloud Club Website**](https://kiet-club-website.vercel.app/) | Official AWS Cloud Club website showcasing events, core team, and announcements with smooth animations. | React, Tailwind CSS, Framer Motion |
+| [**AWS Cloud Club Website**](https://github.com/PriyanshiGovil/Kiet-Club-website.git) | Official AWS Cloud Club website showcasing events, core team, and announcements with smooth animations. | React, Tailwind CSS, Framer Motion |
 
 
 ---
