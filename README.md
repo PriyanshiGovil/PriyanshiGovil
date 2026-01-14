@@ -72,16 +72,7 @@
 - 📈 Mentored **150+ students** in CP/DSA as **Technocrats Club Lead**
 - 👥 **GDG Member (DSA Domain)**
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PriyanshiGovil&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshiGovil&layout=compact&theme=tokyonight"/>
-</p>
-
----
 
 ## 📬 Connect With Me
 
