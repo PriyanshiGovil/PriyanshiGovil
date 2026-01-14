@@ -59,14 +59,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 
----
-## 📌 Featured Projects
-
-| Project | Description | Tech Stack |
-|--------|------------|------------|
-| [**Smart IoT Dustbin System (SIH 2025)**](https://github.com/PriyanshiGovil/FutureCan.git) | IoT-enabled system for automatic segregation of waste, reducing manual sorting by ~60% and addressing India’s 62M+ tons annual waste challenge. | IoT, React, JavaScript, Flask |
-| [**SyncScript**](https://github.com/PriyanshiGovil/SyncScript) | Real-time collaborative code editor with live cursor tracking, multi-user syncing, chat, and in-editor code execution. | React, TypeScript, Node.js, Express, Socket.io |
-| [**AWS Cloud Club Website**](https://github.com/PriyanshiGovil/Kiet-Club-website.git) | Official AWS Cloud Club website showcasing events, core team, and announcements with smooth animations. | React, Tailwind CSS, Framer Motion |
 
 
 ---
